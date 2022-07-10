@@ -1,3 +1,5 @@
+# 실제 작업 Repository
+[이슈와 프로젝트, 위키에 작업했던 내용들이 있어요!](https://github.com/iclxxud/ios-wanted-VoiceRecorder)
 # 빌드 방법
 1. 프로젝트의 폴더에서 pod install
 2. Target에서, Signing & Capabilities에서 Team 수정
